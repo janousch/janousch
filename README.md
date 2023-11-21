@@ -1,4 +1,4 @@
-## Hi there :wave:, you can call me Ramón <img align="right" width="110" src="https://komarev.com/ghpvc/?username=janousch&style=flat-square&color=blueviolet"/>
+## Hi there :wave:, I'm Ramón <img align="right" width="110" src="https://komarev.com/ghpvc/?username=janousch&style=flat-square&color=blueviolet"/>
 
 + 💬 Be free to ask me about anything [here](https://github.com/janousch/janousch/issues)
 
